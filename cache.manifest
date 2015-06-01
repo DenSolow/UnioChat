@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Версия 1.1
+
+NETWORK:
+*
+
+FALLBACK:
+/ offline.html
+
+CACHE:
+sounds/beep.wav
+sounds/chat_line.wav
+sounds/join_network.wav
+sounds/leave_network.wav
+sounds/file-transfer.wav
+sounds/file-transfer-done.wav
+sounds/message.wav
+sounds/topic_change.wav
